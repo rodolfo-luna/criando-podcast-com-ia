@@ -1,1 +1,2 @@
-# criando-podcast-com-ia
+# Projeto final do curso Formação ChatGPT for devs na DIO
+
