@@ -1,8 +1,6 @@
 # Projeto final do curso Formação ChatGPT for devs na DIO
 
-![capa gerada por ia|320x271](output/2d528cc3-85e4-4794-aefa-7a8b6b50f5f2.png)
-
-<img src="output/2d528cc3-85e4-4794-aefa-7a8b6b50f5f2.png" width="100" height="100">
+<img src="output/2d528cc3-85e4-4794-aefa-7a8b6b50f5f2.png" width="300" height="300">
 
 
 ## O projeto de podcast com IAs.
